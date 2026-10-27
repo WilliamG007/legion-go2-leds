@@ -1,0 +1,12 @@
+{
+  "name": "Legion Go 2 LEDs",
+  "author": "htmac",
+  "flags": ["root"],
+  "api_version": 1,
+  "main": "main.py",
+  "bin": "dist/index.js",
+  "publish": {
+    "tags": ["root", "led", "rgb", "legion"],
+    "description": "Stick RGB and power-button LED for the Lenovo Legion Go 2."
+  }
+}

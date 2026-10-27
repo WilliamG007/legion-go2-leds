@@ -1,0 +1,22 @@
+{
+  "name": "legion-go2-lights",
+  "version": "1.0.9",
+  "description": "Stick RGB and power-button LED for the Lenovo Legion Go 2.",
+  "type": "module",
+  "scripts": {
+    "build": "rollup -c",
+    "test": "python3 -m unittest discover -s test -p 'test_*.py'"
+  },
+  "license": "BSD-3-Clause",
+  "devDependencies": {
+    "@decky/rollup": "^1.0.2",
+    "@decky/ui": "^4.11.3",
+    "@types/react": "19.2.14",
+    "@types/react-dom": "19.2.3",
+    "rollup": "^4.60.2",
+    "typescript": "^5.9.3"
+  },
+  "dependencies": {
+    "@decky/api": "^1.1.3"
+  }
+}
