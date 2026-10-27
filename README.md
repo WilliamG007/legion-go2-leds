@@ -25,7 +25,7 @@ Uninstall **HueSync** before using this. Both plugins write the same joystick LE
 ## Install
 
 1. Uninstall HueSync in Decky if it is present.
-2. Download `LegionGo2LEDs.zip` from [Releases](https://github.com/PoppyS33d/legion-go2-leds/releases).
+2. Download `LegionGo2LEDs.zip` from [Releases](https://github.com/WilliamG007/legion-go2-leds/releases).
 3. Copy the zip onto the Legion Go 2 internal disk, for example `/home/deck/` (Desktop Mode). Game Mode does not show USB sticks or FAT/exFAT SD cards in Decky’s file picker.
 4. Game Mode → Quick Access → Decky → gear → **General** → enable Developer mode.
 5. **Developer** → Install Plugin from ZIP → **Home** → the zip.
