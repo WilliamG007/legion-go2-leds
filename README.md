@@ -1,6 +1,9 @@
 # Legion Go 2 LEDs
 
-A small [Decky Loader](https://github.com/SteamDeckHomebrew/decky-loader) plugin for the Lenovo Legion Go 2 (`83N0` / `83N1`) on SteamOS.
+A small [Decky Loader](https://github.com/SteamDeckHomebrew/decky-loader) plugin for the Lenovo Legion Go 2 (`83N0` / `83N1`) **on SteamOS**.
+
+**Platform:** SteamOS only (not Windows, Bazzite, or ChimeraOS).  
+**Tested on:** SteamOS 3.9, Legion Go 2.
 
 It only drives two lights:
 

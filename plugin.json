@@ -7,6 +7,6 @@
   "bin": "dist/index.js",
   "publish": {
     "tags": ["root", "led", "rgb", "legion"],
-    "description": "Stick RGB and power-button LED for the Lenovo Legion Go 2."
+    "description": "Joystick RGB and power-button LED for the Legion Go 2 on SteamOS. Tested on SteamOS 3.9."
   }
 }
